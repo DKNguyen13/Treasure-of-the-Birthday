@@ -21,8 +21,8 @@ The goal is to guide the character safely through each level and reach the treas
 - Smooth 2D platforming mechanics
 
 ## 🚀 How to Play
-- Use arrow keys or A/D to move left/right
-- Press spacebar to jump
+- Use arrow keys to move left/right
+- Use up arrow to jump
 - Avoid falling into gaps and time your jumps to reach the treasure
 
 ## 📷 Screenshots
